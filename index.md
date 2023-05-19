@@ -35,9 +35,6 @@ opacity beyond the default value set with the alpha patch.
 
 #### Patch: changealpha
 
-This patch is to be applied after you have already applied the alpha patch (version 0.8.2 or 
-greater). You will likely have a few chunks fail:
-
 [st-changealpha-0.1.diff](st-changealpha-20230519-b44f2ad.diff)
 
 ### Author 
